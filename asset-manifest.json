@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web3bridge-test/static/css/main.aea01a8e.css",
+    "main.js": "/web3bridge-test/static/js/main.a409a335.js",
+    "static/js/453.9f503e9b.chunk.js": "/web3bridge-test/static/js/453.9f503e9b.chunk.js",
+    "index.html": "/web3bridge-test/index.html",
+    "main.aea01a8e.css.map": "/web3bridge-test/static/css/main.aea01a8e.css.map",
+    "main.a409a335.js.map": "/web3bridge-test/static/js/main.a409a335.js.map",
+    "453.9f503e9b.chunk.js.map": "/web3bridge-test/static/js/453.9f503e9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea01a8e.css",
+    "static/js/main.a409a335.js"
+  ]
+}
